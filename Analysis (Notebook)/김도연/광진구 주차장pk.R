@@ -17,11 +17,11 @@ dbSendQuery(conn, 'delete from tbla')
 dbGetQuery(conn, 'select * from tbla')
 
 # 파일로부터 데이터를 읽어들여 DB에 저장
-file_score<- read.csv('../data/score.csv', header=T)
+file_score<- read.csv(file.choose(), header=T)
 file_score                      
-
-dbWriteTable(conn, 'score', file_score, row.names=F)
-result<- dbGetQuery(conn, 'select * from score')
+?dbWriteTable
+dbWriteTable(conn, 'parking_pk', file_score, row.names=F)
+result<- dbGetQuery(conn, 'select * from parking_pk')
 result
 
 dbDisconnect(conn)
