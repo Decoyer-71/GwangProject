@@ -1,1 +1,5 @@
 .ipynb_checkpoints/
+
+*.orig
+
+*_1319.csv
