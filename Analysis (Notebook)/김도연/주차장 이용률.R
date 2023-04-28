@@ -40,7 +40,7 @@ library(ggplot2)
 
 ?xts
 # 시간 간격을 나타내는 POSIXct 객체를 생성합니다.
-timestamps <- seq(as.POSIXct("2023-04-15 8:00:00"), as.POSIXct("2023-04-21 18:00:00"), by="hour")
+timestamps <- seq(as.POSIXct("2023-04-15 8:00:00"), as.POSIXct("2023-04-21 17:00:00"), by="hour")
 timestamps
 # 임의의 데이터를 생성합니다.
 data <- rnorm(length(timestamps))
@@ -52,12 +52,24 @@ my_xts <- xts(data, order.by = timestamps)
 뚝섬2주차장 <-xts(df$뚝섬2주차장, order.by =timestamps)
 뚝섬3주차장 <-xts(df$뚝섬3주차장, order.by =timestamps)
 뚝섬4주차장<-xts(df$뚝섬4주차장, order.by =timestamps)
-실로암사우나중곡점주차장 <-xts(df$실로암사우나중곡점주차장, order.by =timestamps)
+실로암<-xts(df$실로암사우나중곡점주차장, order.by =timestamps)
 연한빌딩<-xts(df$연한빌딩, order.by =timestamps)
-와이엠프라젠스파 <-xts(df$와이엠프라젠스파, order.by =timestamps)
+와이엠 <-xts(df$와이엠, order.by =timestamps)
 편안한요양병원<-xts(df$편안한요양병원, order.by =timestamps)
-date <- cbind(건국대학교병원,뚝섬1주차장 ,뚝섬2주차장 ,뚝섬3주차장 ,뚝섬4주차장,실로암사우나중곡점주차장,연한빌딩,와이엠프라젠스파,편안한요양병원)
-gg<-dygraph(date) %>% dyLegend(labelsSeparateLines = T)
-dyRangeSelector(gg)
+date <- cbind(건국대학교병원,뚝섬1주차장 ,뚝섬2주차장 ,뚝섬3주차장 ,뚝섬4주차장,실로암,연한빌딩,와이엠,편안한요양병원)
+dygraph(date) %>% dyLegend(labelsSeparateLines = T) %>% dyRangeSelector()
 
+dygraph(건국대학교병원)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(뚝섬1주차장)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(뚝섬2주차장)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(뚝섬3주차장)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(뚝섬4주차장)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(실로암)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(연한빌딩)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(와이엠)%>% dyAxis('y',valueRange = c(0,105))
+dygraph(편안한요양병원)%>% dyAxis('y',valueRange = c(0,105))
+
+
+?dygraph
+?dyOptions
 
