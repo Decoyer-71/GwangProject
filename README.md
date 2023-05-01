@@ -10,4 +10,6 @@
 
 <작업사항 기재>
 
+## 팀원소개
 
+![image](https://user-images.githubusercontent.com/127808901/235387944-7fc1b0bc-825c-41d6-ae8e-ad3df53348c3.png)
