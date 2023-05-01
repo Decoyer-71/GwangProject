@@ -1,14 +1,5 @@
 # GwangProject
 [공모전 공고](https://gwangjin.go.kr/portal/bbs/B0000003/view.do?nttId=6034623&menuNo=200192)
-    
-여기는 master에서 바로 수정 가능하니까 진행중인 분석 있으면 충돌 안나게 여기 써두시면될것같아요!
-
-<4.17.>
-- 윤진석 : 광진구 여유면적, 민원 크롤링 시각화 업데이트
-
-
-
-<작업사항 기재>
 
 ## 팀원소개
 🦝[윤진석](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EC%9C%A4%EC%A7%84%EC%84%9D) : 데이터 수집, 데이터 분석, 팀장, 발표
@@ -60,3 +51,18 @@
 [차,주차장](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%B0%A8%2C%EC%A3%BC%EC%B0%A8%EC%9E%A5)
 
 [회귀분석](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
+
+## 1. 프로젝트 소개
+
+광진구 주차문제 해소를 통한 공공복지 증진과 광진구에서 추진하고 있는 주차문제 해결 사업 효과를 극대화하기 위하여
+
+인구, 주차장 면수, 대중교통 등의 데이터를 토대로 행정동 기준 가장 적합한 사업적용방안 제시
+
+## 2. 데이터 출처
+
+데이터 폴더 참고
+
+## 3. 데이터 분석
+
+
+## 4. 결론
