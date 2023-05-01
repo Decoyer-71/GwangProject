@@ -20,3 +20,8 @@
 :tiger:[김도연] : 데이터 분석, 데이터 상관분석, 데이터 전처리
 
 :hamster:[김이경] : 데이터 수집, 데이터 전처리, 데이터 분석
+
+## 사용언어
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
