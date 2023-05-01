@@ -42,7 +42,7 @@
 
 [대중교통](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EB%8C%80%EC%A4%91%EA%B5%90%ED%86%B5) : [서울 열린데이터 광장](https://data.seoul.go.kr/)
 
-[동별](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EB%8F%99%EB%B3%84) : 동별 데이터
+[동별](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EB%8F%99%EB%B3%84) : [공공데이터포털](https://www.data.go.kr/)
 
 [불법주정차](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EB%B6%88%EB%B2%95%EC%A3%BC%EC%A0%95%EC%B0%A8) : [서울 열린데이터 광장](https://data.seoul.go.kr/)
 
@@ -50,13 +50,13 @@
 
 [인구](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%9D%B8%EA%B5%AC) : [서울시 상권분석 서비스](https://golmok.seoul.go.kr/main.do)
 
-[주차장이용률](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%A3%BC%EC%B0%A8%EC%9E%A5%EC%9D%B4%EC%9A%A9%EB%A5%A0) : 크롤링한 주차장 이용률
+[주차장이용률](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%A3%BC%EC%B0%A8%EC%9E%A5%EC%9D%B4%EC%9A%A9%EB%A5%A0) : [서울특별시 주차정보안내시스템](https://parking.seoul.go.kr/)
 
-[주택](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%A3%BC%ED%83%9D) : 
+[주택](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%A3%BC%ED%83%9D) : [공공데이터포털](https://www.data.go.kr/)
 
 [차,주차장](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EC%B0%A8%2C%EC%A3%BC%EC%B0%A8%EC%9E%A5): [공공데이터포털](https://www.data.go.kr/), [서울 열린데이터 광장](https://data.seoul.go.kr/)
 
-[회귀분석](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
+[회귀분석](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D) : [공공데이터포털](https://www.data.go.kr/), [서울 열린데이터 광장](https://data.seoul.go.kr/), [서울시 상권분석 서비스](https://golmok.seoul.go.kr/main.do)
 
 ## 3. 데이터 분석
 ### 1) 여유면적 분석
