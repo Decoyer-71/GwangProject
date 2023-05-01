@@ -20,7 +20,6 @@
 ## 폴더구성
 
 [analysis](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)) : 분석에 쓰인 jupyter, R 분석 파일들을 모아둔 곳
-
 [Data](https://github.com/Decoyer-71/GwangProject/tree/master/Data) : 크롤링 및 데이터 수집에 쓰인 파일들을 모아둔 곳 
 
 [PPT](https://github.com/Decoyer-71/GwangProject/tree/master/PPT) : PPT만든 것을 모아둔 곳
