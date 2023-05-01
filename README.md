@@ -70,7 +70,8 @@
     ① 회귀분석
         주차장면수에 영향을 주는 요인 분석
         -> 주요회귀변수: 평균직장인구, 차량등록대수, 대중교통 승객수  
-![bbb](https://user-images.githubusercontent.com/127808901/235428128-4872ace3-39b0-4399-bab0-26ac8d821379.png)
+![스크린샷 2023-05-01 175256](https://user-images.githubusercontent.com/127808901/235431475-b41ddfc8-64cf-4ab2-bba0-05d13baa19cb.png)
+
     
     ② 장소분석
         - 광진구 동별 유동인구, 직장인구, 거주인구를 비교하여 주차 수요가 많은 동 분석
