@@ -20,13 +20,20 @@
 ## 폴더 분류
 
 [analysis](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)) : 분석에 쓰인 jupyter, R 분석 파일들을 모아둔 곳
+
 [Data](https://github.com/Decoyer-71/GwangProject/tree/master/Data) : 크롤링 및 데이터 수집에 쓰인 파일들을 모아둔 곳 
 
 [PPT](https://github.com/Decoyer-71/GwangProject/tree/master/PPT) : PPT만든 것을 모아둔 곳
 
 [회의록](https://github.com/Decoyer-71/GwangProject/tree/master/회의록) : 회의록 작성하는 곳
 
-## 데이터 출처
+## 1. 프로젝트 소개
+
+광진구 주차문제 해소를 통한 공공복지 증진과 광진구에서 추진하고 있는 주차문제 해결 사업 효과를 극대화하기 위하여
+
+인구, 주차장 면수, 대중교통 등의 데이터를 토대로 행정동 기준 가장 적합한 사업적용방안 제시
+
+## 2. 데이터 출처
 [건축물](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EA%B1%B4%EC%B6%95%EB%AC%BC) : 건축물 면적 및 건축물대장 데이터
 
 [교통량](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%EA%B5%90%ED%86%B5%EB%9F%89) : 교통량 데이터
@@ -51,17 +58,8 @@
 
 [회귀분석](https://github.com/Decoyer-71/GwangProject/tree/master/Data/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
 
-## 1. 프로젝트 소개
-
-광진구 주차문제 해소를 통한 공공복지 증진과 광진구에서 추진하고 있는 주차문제 해결 사업 효과를 극대화하기 위하여
-
-인구, 주차장 면수, 대중교통 등의 데이터를 토대로 행정동 기준 가장 적합한 사업적용방안 제시
-
-## 2. 데이터 출처
-
-데이터 폴더 참고
-
 ## 3. 데이터 분석
-
-
+### 1) 여유면적 분석
+### 2) 주차장 수요 분석
+#### ① 
 ## 4. 결론
