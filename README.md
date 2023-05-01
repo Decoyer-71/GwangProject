@@ -25,3 +25,14 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
+
+## 폴더구성
+
+analysis : 분석에 쓰인 jupyter, R 분석 파일들을 모아둔 곳
+
+Data : 크롤링 및 데이터 수집에 쓰인 파일들을 모아둔 곳 
+
+PPT : PPT만든 것을 모아둔 곳
+
+회의록 : 회의록 작성하는 곳
+
