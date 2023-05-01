@@ -28,7 +28,7 @@
 
 ## 폴더구성
 
-analysis : 분석에 쓰인 jupyter, R 분석 파일들을 모아둔 곳
+[analysis](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)) : 분석에 쓰인 jupyter, R 분석 파일들을 모아둔 곳
 
 Data : 크롤링 및 데이터 수집에 쓰인 파일들을 모아둔 곳 
 
