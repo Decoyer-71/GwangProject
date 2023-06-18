@@ -2,9 +2,9 @@
 [공모전 공고](https://gwangjin.go.kr/portal/bbs/B0000003/view.do?nttId=6034623&menuNo=200192)
 
 ## 팀원소개
-🦝[윤진석](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EC%9C%A4%EC%A7%84%EC%84%9D) : 데이터 수집, 데이터 분석, 팀장, 발표
+🦝[윤진석](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EC%9C%A4%EC%A7%84%EC%84%9D) : 데이터 수집, 데이터 전처리, 분석, 시각화, 팀장, 발표
 
-🐼[김정숙](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EA%B9%80%EC%A0%95%EC%88%99) : 데이터 분석, 데이터 전처리, 시각화
+🐼[김정숙](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EA%B9%80%EC%A0%95%EC%88%99) : 데이터 분석, 데이터 전처리, 분석, 시각화
 
 🦦[오원석](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EC%98%A4%EC%9B%90%EC%84%9D) : 데이터 수집, 데이터 분석, 전처리, 시각화
 
