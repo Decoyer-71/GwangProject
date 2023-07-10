@@ -12,7 +12,7 @@
 
 🦊[김이경](https://github.com/Decoyer-71/GwangProject/tree/master/Analysis%20(Notebook)/%EA%B9%80%EC%9D%B4%EA%B2%BD) : 데이터 수집, 데이터 전처리, 데이터 분석
 
-## 사용언어
+## 사용언어 및 모듈
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
